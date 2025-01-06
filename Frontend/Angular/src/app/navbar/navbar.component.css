@@ -1,0 +1,17 @@
+.navbar{
+    background-color: rgba(100,100,200, 0.4);
+    width: auto;
+    position: relative;
+    color: white;
+    height: 6vh;
+}
+
+.app-name{
+    color: white;
+    font-size: 2.7vh;
+}
+
+.icon-logo{
+    width: 4vh;
+    height: 4vh;
+}
